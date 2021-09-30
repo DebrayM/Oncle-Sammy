@@ -1,6 +1,8 @@
 couleurs
 orange #fe8800
 rouge #fc260a
+gris #aea9a9
+noir #463c3c
 
 font
 system-ui
@@ -8,3 +10,12 @@ Bernadette
 
 Text Transform
 inherit
+
+<pre class="themefond"><span class="onclesammy" style="font-size: 18px;">Prix : 11,90€</span></pre>
+<strong class="onclesammy"></strong>
+
+plug-in pour wordpress
+https://wordpress.org/plugins/timeline-blocks/
+https://wordpress.org/plugins/timeline-express/#description
+https://justfreewpthemes.com/top-8-useful-wordpress-timeline-plugin-you-should-have-in-2019/
+https://www.bing.com/images/search?view=detailV2&ccid=95V1s%2b5U&id=1067F2560F21332ACDD1BE94566ED32943C89F38&thid=OIP.95V1s-5UUBJLxmL1ava92QHaEK&mediaurl=https%3a%2f%2fjustfreewpthemes.com%2fwp-content%2fuploads%2fedd%2f2019%2f08%2fWordPress-Timeline-plugin.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.f79575b3ee5450124bc662f56af6bdd9%3frik%3dOJ%252fIQynTblaUvg%26pid%3dImgRaw%26r%3d0&exph=720&expw=1280&q=timeline+plugin+wordpress&simid=608021095557780209&FORM=IRPRST&ck=7EFFD9CF7DDF609380E3E05E7E6EC0DD&selectedIndex=1&ajaxhist=0&ajaxserp=0
